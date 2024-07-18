@@ -1,0 +1,7 @@
+1) First press any key on keyboard to start with.
+2) Then you would notice computer to flash one of the buttons.
+3) Your role is to hit that button.
+4) Now computer again clicks another button.
+5) Now you have to tap the previous button and the button which computer pressed in 2nd step.
+   (Basically it's a memory recall game.)
+6) Once you hit the wrong pattern , the game is over.   
